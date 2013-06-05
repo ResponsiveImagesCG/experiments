@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Object image type fallback test page </title>
+    </head>
+    <style>
+        main {width: 50%;}
+        object, img {max-width: 100%;}
+    </style>
+    <body>
+        <main>
+            <object type="image/svg+xml" data="http://upload.wikimedia.org/wikipedia/commons/8/8a/Plates_tect2_en.svg">
+                <img src="http://upload.wikimedia.org/wikipedia/fr/2/2f/Firefox_Old_Logo.png">
+            </object>
+            <img src="http://upload.wikimedia.org/wikipedia/commons/8/8a/Plates_tect2_en.svg">
+        </main>
+    </body>
+</html>
