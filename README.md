@@ -1,11 +1,11 @@
-Tests
-=====
+Test cases and experiments
+==========================
 
-This is the test repository of the Responsive Images Community Group.
+This is the test-cases repository of the Responsive Images Community Group.
 
 ## Guidelines
 
-The following are guidelines to follow when writing tests for the RICG tests repository.
+The following are guidelines to follow when writing test-cases for the RICG tests repository.
 
 1. [Use the .editorconfig](.editorconfig)
 2. [Use our HTML-Framework](index-tpl.html)
